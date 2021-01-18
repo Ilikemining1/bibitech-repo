@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FirmwarePatches</key>
+	<dict>
+		<key>iBoot</key>
+		<dict>
+			<key>File</key>
+			<string>iBoot.m68ap.RELEASE.img3</string>
+			<key>IV</key>
+			<string>db240b5ba6163898bbbc055be2276ea0</string>
+			<key>Key</key>
+			<string>a0ae133d5de080b4341d3eeb8aff63d4</string>
+			<key>Patch</key>
+			<string>iBoot.m68ap.RELEASE.patch</string>
+		</dict>
+		<key>LLB</key>
+		<dict>
+			<key>File</key>
+			<string>LLB.m68ap.RELEASE.img3</string>
+			<key>Patch</key>
+			<string>LLB.m68ap.RELEASE.patch</string>
+		</dict>
+	</dict>
+	<key>FirmwarePath</key>
+	<string>Firmware/all_flash/all_flash.m68ap.production</string>
+	<key>KernelPath</key>
+	<string>/System/Library/Caches/com.apple.kernelcaches/kernelcache.s5l8900x</string>
+	<key>Manifest</key>
+	<array>
+		<string>LLB.m68ap.RELEASE.img3</string>
+		<string>openiboot.img3</string>
+		<string>iBoot.m68ap.RELEASE.img3</string>
+		<string>DeviceTree.m68ap.img3</string>
+		<string>applelogo.s5l8900x.img3</string>
+		<string>recoverymode.s5l8900x.img3</string>
+		<string>batterylow0.s5l8900x.img3</string>
+		<string>batterylow1.s5l8900x.img3</string>
+		<string>glyphcharging.s5l8900x.img3</string>
+		<string>glyphplugin.s5l8900x.img3</string>
+		<string>batterycharging0.s5l8900x.img3</string>
+		<string>batterycharging1.s5l8900x.img3</string>
+		<string>batteryfull.s5l8900x.img3</string>
+	</array>
+	<key>Name</key>
+	<string>iPhone1,1_3.1.2_7D11</string>
+	<key>URL</key>
+	<string>http://appldnld.apple.com.edgesuite.net/content.info.apple.com/iPhone/061-7268.20091008.32pNe/iPhone1,1_3.1.2_7D11_Restore.ipsw</string>
+	<key>VerifyMD5</key>
+	<array>
+		<string>e07dc4692fff99d0e69bbc9daa478cc3</string>
+		<string>da5348fe0ac42534538980536bf4f30b</string>
+		<string>30efe5e59af24d7520406cd068b7d7a6</string>
+		<string>bba4fcd6a16e0b7ebd73bff743aeedd1</string>
+	</array>
+</dict>
+</plist>
