@@ -1,0 +1,8 @@
+Origin: Bibitech Repo
+Label: Bibitech Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: bibitechrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Repo for IlikeTech's Projects
