@@ -5,8 +5,8 @@ Maintainer: IlikeTech <spbach1234@gmail.com>
 Depends: firmware(>= 3.1), curl (>= 7.19.4-6)
 Architecture: iphoneos-arm
 Filename: Files//bootlace/bootlace_2.1.7.deb
-Size: 413664
-MD5sum: 950d1ba151a24adf2adce0ce9a91b49c
+Size: 413668
+MD5sum: 32587599b3cc63c8c0757b9c22d7aef2
 Description: iDroid & OpeniBoot installation/config tool
 	Allows installation of iDroid and OpeniBoot. iPod touch 1, iPhone 2G, and 3G only! 3.1.2 - 4.2.1 supported. Blackra1n, redsn0w and PwnageTool supported
 Name: Bootlace
