@@ -1,12 +1,12 @@
 Package: be.dawson.bootlace
 Version: 2.1.7
 Section: System
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: IlikeTech <spbach1234@gmail.com>
 Depends: firmware(>= 3.1), curl (>= 7.19.4-6)
 Architecture: iphoneos-arm
 Filename: Files//bootlace/bootlace_2.1.7.deb
-Size: 413656
-MD5sum: 77f84fd25808eebff58f22e8e168180a
+Size: 414126
+MD5sum: dc0fcd849de41132ce4b71dd91aeca54
 Description: iDroid & OpeniBoot installation/config tool
 	Allows installation of iDroid and OpeniBoot. iPod touch 1, iPhone 2G, and 3G only! 3.1.2 - 4.2.1 supported. Blackra1n, redsn0w and PwnageTool supported
 Name: Bootlace
