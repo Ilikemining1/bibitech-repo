@@ -41,3 +41,17 @@ Description: simpler DYLD_INSERT_LIBRARIES setup
 Name: Mobile Substrate
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 
+Package: mobileterminal
+Version: 286u-7
+Priority: standard
+Section: Terminal_Support
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Depends: ncurses
+Architecture: darwin-arm
+Filename: Files//mobileterminal/mobileterminal_286u-7_darwin-arm.deb
+Size: 259866
+Installed-Size: 484
+MD5sum: b10b9462b06fae7c1774dc4bdd29129b
+Description: local UIKit-based Terminal emulator
+Name: MobileTerminal
+
